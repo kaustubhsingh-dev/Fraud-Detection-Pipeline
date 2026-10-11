@@ -1,0 +1,12 @@
+venv/
+data/raw/
+data/processed/
+data/features/
+models/*.pkl
+figures/*.png
+results/*.csv
+.ipynb_checkpoints/
+__pycache__/
+*.pyc
+.kaggle/
+results/
